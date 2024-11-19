@@ -1,1 +1,1 @@
-const pair = "yolo";
+const badge = "branch";
